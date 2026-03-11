@@ -1,5 +1,5 @@
 [
-  {"nome":"Gladiador", imdb: 8.5, "genero": "Ação"},
-  {"nome":"O Poderoso Chefão", imdb: 9.2, "genero": "Suspense"},
-  {"nome":"O Iluminado", imdb: 8.4, "genero": "Terror"}
+  {"nome":"Gladiador", "imdb": 8.5, "genero": "Ação"},
+  {"nome":"O Poderoso Chefão", "imdb": 9.2, "genero": "Suspense"},
+  {"nome":"O Iluminado", "imdb": 8.4, "genero": "Terror"}
 ]
