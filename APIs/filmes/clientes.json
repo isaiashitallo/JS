@@ -1,0 +1,27 @@
+[
+  {
+    "nome": "Carlos Silva",
+    "depoimento": "Produto excelente, superou minhas expectativas!",
+    "rating": 5
+  },
+  {
+    "nome": "Ana Souza",
+    "depoimento": "Muito bom, mas a entrega demorou um pouco.",
+    "rating": 4
+  },
+  {
+    "nome": "Marcos Oliveira",
+    "depoimento": "Produto ok, nada demais.",
+    "rating": 3
+  },
+  {
+    "nome": "Juliana Costa",
+    "depoimento": "Não gostei, qualidade abaixo do esperado.",
+    "rating": 2
+  },
+  {
+    "nome": "Fernanda Lima",
+    "depoimento": "Horrível, não recomendo.",
+    "rating": 1
+  }
+]
