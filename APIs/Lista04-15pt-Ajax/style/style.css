@@ -1,0 +1,65 @@
+body {
+  margin: 0;
+  font-family: Arial;
+  background: #111;
+  color: #fff;
+  /* display: flex;
+  flex-wrap: wrap;
+  justify-content: center; */
+}
+
+/* HEADER */
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px 40px;
+  background: #000;
+  border-bottom: 1px solid #333;
+  position: sticky;
+  top: 0;
+}
+
+.logo {
+  color: #e50914;
+  font-size: 22px;
+  font-weight: bold;
+}
+
+.menu a {
+  margin-left: 20px;
+  color: #ccc;
+  text-decoration: none;
+}
+
+.menu a:hover {
+  color: #fff;
+}
+
+/* CATÁLOGO */
+#catalogo {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+  padding: 20px;
+}
+
+/* CARD */
+.filme {
+  background: #222;
+  padding: 10px;
+  border-radius: 10px;
+  width: 200px;
+  text-align: center;
+  transition: 0.3s;
+}
+
+.filme:hover {
+  transform: scale(1.05);
+}
+
+img {
+  width: 100%;
+  border-radius: 10px;
+}
